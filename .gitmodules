@@ -1,0 +1,3 @@
+[submodule "ALZ-Bicep"]
+	path = ALZ-Bicep
+	url = https://github.com/Azure/ALZ-Bicep.git
